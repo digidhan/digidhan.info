@@ -1,0 +1,12 @@
+
+<div class="w3-content w3-margin-top w3-hide-small" style="max-width:1400px;"><div class="w3-row-padding"><img src="fevi.png" length=60 width=60 align=left></img><img src="di.png" length=140 width=140 align=right></img><h1>&nbsp;?????????? ????</h1>
+</div></div>
+
+<div class="w3-content w3-margin-top w3-hide-medium w3-hide-large" style="max-width:1400px;"><div class="w3-row-padding"><img src="fevi.png" length=60 width=60 align=left></img><img src="di.png" length=140 width=140 align=right></img><h4>&nbsp;?????????? ????</h4>
+</div></div>
+
+header images for digital transactions
+
+
+the resposive image tab
+<img src="htdib.png" align="left" style="width:100%;max-width:600px">
