@@ -6,7 +6,7 @@ draft = false
 
 +++
 
-{{< figure class="image main" src="/img/pos.jpg" >}}
+{{< figure class="image main" src="img/pos.jpg" >}}
 
 POS म्हणजे Point of Sale मशीन. POS मशीनचा वापर पेमेंट कार्डमार्फत पेमेंट स्वीकारण्यासाठी होतो.
 

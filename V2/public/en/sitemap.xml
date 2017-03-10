@@ -1,37 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   
   <url>
-    <loc>/#aeps</loc>
+    <loc>/aeps/</loc>
+    <lastmod>2017-03-09T18:13:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/#digital-wallet</loc>
+    <loc>/digital-wallet/</loc>
+    <lastmod>2017-03-09T18:12:40+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/#mpos</loc>
+    <loc>/mpos/</loc>
+    <lastmod>2017-03-09T18:12:31+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/#pos</loc>
+    <loc>/pos/</loc>
+    <lastmod>2017-03-09T18:12:28+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/#ussd</loc>
+    <loc>/ussd/</loc>
+    <lastmod>2017-03-09T18:12:19+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/#bhim</loc>
+    <loc>/bhim/</loc>
+    <lastmod>2017-03-09T18:12:11+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/#upi</loc>
+    <loc>/upi/</loc>
+    <lastmod>2017-03-09T13:31:06+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/#</loc>
+    <loc>/</loc>
+    <lastmod>2017-03-09T18:13:01+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
