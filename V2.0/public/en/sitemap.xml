@@ -7,15 +7,15 @@
   </url>
   
   <url>
-    <loc>/#digital-wallet</loc>
-  </url>
-  
-  <url>
     <loc>/#mpos</loc>
   </url>
   
   <url>
     <loc>/#pos</loc>
+  </url>
+  
+  <url>
+    <loc>/#net-banking</loc>
   </url>
   
   <url>
@@ -28,6 +28,10 @@
   
   <url>
     <loc>/#upi</loc>
+  </url>
+  
+  <url>
+    <loc>/#</loc>
   </url>
   
   <url>
