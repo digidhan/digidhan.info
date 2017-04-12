@@ -39,10 +39,24 @@ description = '<!--[-->default description<!--]--><br />'
 languageName = "English"
 weight = 1
 title = "Digidhan"
-description = 'नागरिकांना डिजिटल व्यवहाराबाबत संपूर्ण माहिती देणे आणि त्यांना डिजिटल व्यवहार करण्यासाठी सक्षम बनविणे, हा या संकेतस्थळाचा प्रमुख उद्देश्य आहे. सोप्या भाषेमध्ये डिजिटल व्यवहारांच्या विविध प्रकारांबद्दल मार्गदर्शन करण्याचा प्रयत्न केला आहे. याचा वापर करून आपण यशस्वीपणे डिजिटल व्यवहार करू शकाल. '
+description = '<!--[-->Hindi description<!--]--><br />'
 
-[languages.de]
-languageName = "Deutsch"
+[languages.mr]
+languageName = "मराठी "
 weight = 2
 title = "Digidhan"
-description = '<!--[-->Deutsch description<!--]--><br />'
+description = 'नागरिकांना डिजिटल व्यवहाराबाबत संपूर्ण माहिती देणे आणि त्यांना डिजिटल व्यवहार करण्यासाठी सक्षम बनविणे, हा या संकेतस्थळाचा प्रमुख उद्देश्य आहे. सोप्या भाषेमध्ये डिजिटल व्यवहारांच्या विविध प्रकारांबद्दल मार्गदर्शन करण्याचा प्रयत्न केला आहे. याचा वापर करून आपण यशस्वीपणे डिजिटल व्यवहार करू शकाल. '
+
+[languages.hi]
+languageName = "हिंदी "
+weight = 3
+title = "Digidhan"
+description = '<!--[-->Hindi description<!--]--><br />'
+
+[languages.kn]
+languageName = "ಕನ್ನಡ "
+weight = 3
+title = "Digidhan"
+description = '<!--[-->Kannada description<!--]--><br />'
+
+
