@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digidhan</title>
+    <link>/en/index.xml</link>
+    <description>Recent content on Digidhan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Mar 2017 18:13:01 +0530</lastBuildDate>
+    <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>aeps</title>
+      <link>/en/aeps/</link>
+      <pubDate>Thu, 09 Mar 2017 18:13:01 +0530</pubDate>
+      
+      <guid>/en/aeps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
