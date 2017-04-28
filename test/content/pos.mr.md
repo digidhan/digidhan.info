@@ -1,7 +1,7 @@
 +++
 date = "2017-03-09T18:12:28+05:30"
 title = "pos"
-weight = 0
+weight = 4
 draft = false
 
 +++
