@@ -1,8 +1,0 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{{ $baseURL := .Site.BaseURL }}
-  {{ range sort .Data.Pages }}
-  <url>
-    <loc>{{ $baseURL }}#{{ .File.TranslationBaseName }}</loc>
-  </url>
-  {{ end }}
-</urlset>
