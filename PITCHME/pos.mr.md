@@ -1,10 +1,3 @@
-+++
-date = "2017-03-09T18:12:28+05:30"
-title = "pos"
-weight = 4
-draft = false
-
-+++
 
 {{< figure class="image main" src="/img/pos.jpg" >}}
 

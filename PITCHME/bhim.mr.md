@@ -1,10 +1,3 @@
-﻿+++
-weight = 1
-date = "2017-03-09T18:12:11+05:30"
-title = "bhim/upi"
-draft = false
-
-+++
 
 
 

@@ -1,10 +1,3 @@
-+++
-title = "mpos"
-draft = false
-weight = 5
-date = "2017-03-09T18:12:31+05:30"
-
-+++
 
 {{< figure class="image main" src="/img/mswipe.jpg" >}}
 
