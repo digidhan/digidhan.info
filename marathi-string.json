@@ -1,0 +1,20 @@
+﻿function fill_template() {
+
+	var str = document.getElementById("wholebody").innerHTML ;
+	for(var key in string_json) {
+		str = str.replace("#{" + key + "}", string_json[key]);
+	}	
+	document.getElementById("wholebody").innerHTML  = str;
+	var str = document.head.innerHTML ;
+	for(var key in string_json) {
+		str = str.replace("#{" + key + "}", string_json[key]);
+	}	
+	document.head.innerHTML  = str;
+	
+}
+window.onload = fill_template;
+
+var string_json = {
+    page_title: "कॅशलेस महाराष्ट्र",
+	main_text_1: "   नागरिकांना डिजिटल व्यवहाराबाबत संपूर्ण माहिती देणे आणि त्यांना डिजिटल व्यवहार करण्यासाठी सक्षम बनविणे, हा या संकेतस्थळाचा प्रमुख उद्देश्य आहे. सोप्या भाषेमध्ये डिजिटल व्यवहारांच्या विविध प्रकारांबद्दल मार्गदर्शन करण्याचा प्रयत्न केला आहे. याचा वापर करून आपण यशस्वीपणे डिजिटल व्यवहार करू शकाल. ",
+};
