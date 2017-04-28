@@ -6,8 +6,232 @@
     <description>Recent content on Digidhan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Mar 2017 18:13:01 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 09 Mar 2017 18:12:19 +0530</lastBuildDate>
     <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>USSD</title>
+      <link>/en/ussd/</link>
+      <pubDate>Thu, 09 Mar 2017 18:12:19 +0530</pubDate>
+      
+      <guid>/en/ussd/</guid>
+      <description>
+
+&lt;p&gt;इंटरनेट नसतांनाही बँकिंग करा !&lt;/p&gt;
+
+&lt;p&gt;आपल्या मोबाईलवरून *९९# डायल करून आपण व्यवहार करू शकता.
+यासाठी इंटरनेट ची गरज लागत नाही आणि हि सुविधा वापरण्यासही खूप सोपी आहे.
+या सुविधेमार्फत प्रतिदिन ५००० रुपयांपर्यंत आपल्याला व्यवहार करता येतो.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;ही सुविधा वापरण्यासाठी आपल्याकडे काय असणे आवश्यक आहे ?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;बँकेत अकाउंट असावे.&lt;/li&gt;
+&lt;li&gt;मोबाईल फोन असावा.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;USSD सेवेसाठी नोंदणी कशी कराल ?&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;आपल्या बँकेच्या शाखेत जाऊन, आपले अकाउंट आणि मोबाईल नंबर लिंक करून घ्या.&lt;/li&gt;
+&lt;li&gt;नोंदणी झाल्यावर आपल्याला दोन पिन (Pin) मिळतील; MMID Pin आणि MPIN. दोन्ही Pin नीट लक्षात ठेवा.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;USSD सेवेची  प्रात्यक्षिके पाहूया !&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;आपल्या अकाउंटचे बॅलन्स चेक करणे.&lt;/li&gt;
+&lt;li&gt;एका खात्यातून दुसऱ्या खात्यात पैसे ट्रान्सफर करणे.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;१-आपल-य-अक-उ-टच-ब-लन-स-च-क-करण&#34;&gt;१. आपल्या अकाउंटचे बॅलन्स चेक करणे.&lt;/h2&gt;
+
+&lt;p&gt;1) आपल्या मोबाईलवर *९९# डायल करा.
+2) आणि जो मोबाईल नंबर तुमच्या बँकेशी लिंक आहे त्यावरून कॉल करा.&lt;/p&gt;
+
+
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;/img/ussd/1.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;कॉल केल्यावर अशाप्रकारचा संदेश येईल.&lt;/p&gt;
+
+
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;/img/ussd/2.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;आता &amp;lsquo;OK&amp;rsquo; वर क्लिक करा&lt;/p&gt;
+
+
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;/img/ussd/3.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;भाषा निवडण्यासाठी, तुमचा पर्याय टाईप करा आणि &amp;lsquo;Send&amp;rsquo; वर क्लिक करा&lt;/p&gt;
+
+
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;/img/ussd/4.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;जर आपणास अधिक पर्याय हवे असतील तर * टाईप करून send वर क्लिक करा.&lt;/p&gt;
+
+
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;/img/ussd/5.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;आपल्या बँकेचे तीन अक्षरी संक्षिप्त नाव किंवा दोन अंकी न्यूमेरिक कोड टाका
+bom हा बँक ऑफ महाराष्ट्र चा कोड आहे.&lt;/p&gt;
+
+
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;/img/ussd/6.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;आपल्या खात्यावरील जमा अश्याप्रकारे दाखवली जाते.&lt;/p&gt;
+
+
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;/img/ussd/7.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;२-एक-ख-त-य-त-न-द-सऱ-य-ख-त-य-त-प-स-ट-र-न-सफर-करण&#34;&gt;२. एका खात्यातून दुसऱ्या खात्यात पैसे ट्रान्सफर करणे.&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li&gt;आपल्या मोबाईलवर *९९# डायल करा.&lt;/li&gt;
+&lt;li&gt;आणि जो मोबाईल नंबर तुमच्या बँकेशी लिंक आहे त्यावरून कॉल करा.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;/img/ussd/1.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;उपलब्ध पर्यायांतून जो पर्याय निवडायचा असेल त्याचा नंबर टाकून send वर क्लिक करा.&lt;/p&gt;
+
+
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;/img/ussd/8.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;विविध पर्यायांचा वापर करून आपल्याला पैसे पाठवता येतात. आपल्याला साजेसा पर्याय निवडा. आता इथे आपण मोबाईल नंबरचा वापर करून पैसे पाठवणार आहोत.&lt;/p&gt;
+
+
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;/img/ussd/9.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;ज्यांना पैसे पाठवायचे असतील त्यांचा मोबाईल नंबर टाका आणि send वर क्लिक करा&lt;/p&gt;
+
+
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;/img/ussd/10.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;मोबाईल नंबर वैध आहे कि नाही याची पडताळणी झाल्यावर त्या व्यक्तीचे नाव वरीलप्रमाणे प्रदर्शित होईल. आता त्या व्यक्तीला किती पैसे पाठवायचे आहेत ते लिहा.&lt;/p&gt;
+
+
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;/img/ussd/11.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;प्रक्रिया थांबवण्यासाठी &amp;lsquo;Exit&amp;rsquo; चा पर्याय निवडा आणि सेंड वर क्लिक करा.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;/img/ussd/12.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;a href=&#34;http://www.relakhs.com/wp-content/uploads/2016/09/NUUP-99-List-of-Banks-with-IFSC-and-Short-name.pdf&#34;&gt;USSD साठी लागणारे बँकेचे तपशील&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>aeps</title>

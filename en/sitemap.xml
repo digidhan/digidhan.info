@@ -3,6 +3,10 @@
 
   
   <url>
+    <loc>/#ussd</loc>
+  </url>
+  
+  <url>
     <loc>/#aeps</loc>
   </url>
   
