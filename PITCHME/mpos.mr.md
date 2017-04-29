@@ -1,5 +1,5 @@
 
-< figure class="image main" src="../img/mswipe.jpg" >
+![Image](../img/mswipe.jpg" >
 
 MPOS म्हणजे Mobile Point of Sale मशीन. हि मशीन आपण आपल्या मोबाईलला जोडतो आणि मोबाईलच्या इंटरनेटच्या माध्यमातून या मशीनद्वारे व्यवहार करण्यात येतात. POS मशीनपेक्षा MPOS साठी लागणारा खर्च खूप कमी आहे.
 

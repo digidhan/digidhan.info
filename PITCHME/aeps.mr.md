@@ -1,7 +1,7 @@
 
 ## आधार कार्डने व्यवहार करा 
 
-< figure class="image main" src="../img/aeps/aadhhar-pay.jpg" >
+![Image](../img/aeps/aadhhar-pay.jpg)
 
 बँक प्रतिनिधी किंवा Micro-ATM च्या माध्यमातून व्यवहार करण्याची सुविधा आधार प्रणित प्रणालीद्वारे मिळते.
 
